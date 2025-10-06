@@ -1,0 +1,49 @@
+{
+    "login": {
+        "title": "TalentFlow AI",
+        "subtitle": "AI-Powered Recruitment Management System",
+        "usernameHint": "Username (hint: admin)",
+        "passwordHint": "Password (hint: password)",
+        "button": "Sign In",
+        "error": "Invalid username or password"
+    },
+    "nav": {
+        "dashboard": "Dashboard",
+        "jobs": "Job Management",
+        "applicants": "Applicant Tracking"
+    },
+    "logout": "Logout",
+    "dashboard": {
+        "title": "Dashboard",
+        "activeJobs": "Active Jobs",
+        "activeJobsDesc": "Number of currently open positions",
+        "totalApplicants": "Total Applicants",
+        "totalApplicantsDesc": "Total number of applicants for all jobs",
+        "avgCycle": "Avg. Hiring Cycle (Days)",
+        "avgCycleDesc": "Average days from posting to hiring",
+        "acceptanceRate": "Offer Acceptance Rate",
+        "acceptanceRateDesc": "Hired / (Hired + Offers)",
+        "sourceAnalysis": "Applicant Source Analysis",
+        "funnelAnalysis": "Recruitment Funnel Analysis",
+        "noApplicantData": "No applicant data available yet",
+        "applicantCount": "Applicants"
+    },
+    "jobs": {
+        "title": "Job Management",
+        "newJob": "New Job",
+        "jobTitle": "Job Title",
+        "status": "Status",
+        "applicants": "Applicants",
+        "postedDate": "Posted Date",
+        "actions": "Actions",
+        "publish": "Publish",
+        "close": "Close",
+        "reopen": "Reopen",
+        "backToList": "Back to Job List"
+    },
+    "applicants": {
+        "title": "Applicant Tracking",
+        "filterLabel": "Filter by job",
+        "allJobs": "All Jobs"
+    }
+}
